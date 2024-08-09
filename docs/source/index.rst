@@ -11,13 +11,6 @@ Garmentlab documentation
    :caption: Tutorial
 
    tutorial/setup/index
-   tutorial/environment/index
-   tutorial/tasks/index
-   tutorial/data/index
-   tutorial/configs/index
-   tutorial/train/index
-   tutorial/eval/index
-   tutorial/challenge_setup/index
    tutorial/physics/index
    tutorial/realworldbenchmark/index
    tutorial/demo/index
