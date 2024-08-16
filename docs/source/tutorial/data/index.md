@@ -46,7 +46,7 @@ Mobile-Franka consists of a movable base and Franka standing on it. We can contr
 
 The main body of tactile franka is franka, and its gripper adheres two soft pads that can receive tactile information. This design allows the robot to combine the dexterity of Franka with tactile feedback technology. It is equipped with high-precision tactile sensors that can sense and respond to contact with the environment in real time, thereby improving the accuracy and safety of operations. This robot arm is widely used in fields that require delicate tactile operations, such as precision assembly, surgical assistance, and research experiments.
 <!-- 插入Tactile franka 的图片 -->
-![tactile franka](tactile_franka.png)
+![tactile franka](tactile-franka.png)
 *Figure 5: The tactile franka*
 </br>
 
