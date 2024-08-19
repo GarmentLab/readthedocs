@@ -19,7 +19,7 @@ If you import these clothes in the GUI, you need to select the mesh of the cloth
 ## Materials
 
 We provide four simple materials with controllable colors for clothing. The effects are beige, blue, orange and white, as shown below.
-![materials](pic/materials.png)
+![materials](material.png)
 *Figure 2: The materials provided in assets, the color order from top left to bottom right is beige, blue, orange, white*
 </br></br>
 If you want to use these materials, please import the material file (.usd), then find **materials on selected models** in the property column of the clothing **mesh**, and switch its path.
