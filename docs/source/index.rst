@@ -14,4 +14,4 @@ Garmentlab documentation
    tutorial/physics/index
    tutorial/realworldbenchmark/index
    tutorial/demo/index
-   tutorial/demo/data
+   tutorial/data/index
