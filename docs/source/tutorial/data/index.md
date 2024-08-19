@@ -34,6 +34,7 @@ Our assets contains the following end-effectors: shadow hand, mobile-franka, tac
 Shadow hands have about 20 degrees of freedom, so they are more finely controlled and can mimic the fine movements of human hands. They are often designed to perform various complex manipulation tasks such as grasping, manipulation and assembly.
 
 ![shadow hand](pic/shadow_hands.png)
+</br>
 *Figure 3: The shadow hands*
 <!-- 插入灵巧手图片 -->
 
@@ -41,6 +42,7 @@ Shadow hands have about 20 degrees of freedom, so they are more finely controlle
 Mobile-Franka consists of a movable base and Franka standing on it. We can control the movement of the base by adjusting its position or speed, so that the robot can have a wider range of activities and perform more tasks more conveniently.
 
 ![mobile franka](pic/mobile_franka.png)
+</br>
 *Figure 4: The mobile franka*
 <!-- 插入移动franka图片 -->
 
@@ -49,6 +51,7 @@ Mobile-Franka consists of a movable base and Franka standing on it. We can contr
 The main body of tactile franka is franka, and its gripper adheres two soft pads that can receive tactile information. This design allows the robot to combine the dexterity of Franka with tactile feedback technology. It is equipped with high-precision tactile sensors that can sense and respond to contact with the environment in real time, thereby improving the accuracy and safety of operations. This robot arm is widely used in fields that require delicate tactile operations, such as precision assembly, surgical assistance, and research experiments.
 <!-- 插入Tactile franka 的图片 -->
 ![tactile franka](pic/tactile-franka.png)
+<br>
 *Figure 5: The tactile franka*
 </br>
 
