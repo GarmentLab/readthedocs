@@ -1,4 +1,5 @@
-# Garments
+# Asset
+## Garments
 The clothes come from [ClothesNet](https://arxiv.org/abs/2308.09987) and are stored in .usd (Universal Scene Description) file format, with a total of more than 4,000 pieces.</br></br>
 These clothes include 11 categories in total:</br>
 Dress, Glove, Hat, Mask, One-piece, Scarf-Tie,</br>
@@ -15,7 +16,7 @@ If you import these clothes in the GUI, you need to select the mesh of the cloth
 </br>
 <!-- 引用图片step1-4 -->
 
-# Materials
+## Materials
 
 We provide four simple materials with controllable colors for clothing. The effects are beige, blue, orange and white, as shown below.
 ![materials](materials.png)
@@ -24,25 +25,25 @@ If you want to use these materials, please import the material file (.usd), then
 
 In the future we may add more materials, both tactile and visual, to simulate more clothes with different characteristics.</br>
 
-# Robots
+## Robots
 
 Our assets contains the following end-effectors: shadow hand, mobile-franka, tactile-franka.
 
-## Shadow Hand
+### Shadow Hand
 Shadow hands have about 20 degrees of freedom, so they are more finely controlled and can mimic the fine movements of human hands. They are often designed to perform various complex manipulation tasks such as grasping, manipulation and assembly.
 
 ![shadow hand](shadow_hands.png)
 *Figure 3: The shadow hands*
 <!-- 插入灵巧手图片 -->
 
-## Mobile-Franka
+### Mobile-Franka
 Mobile-Franka consists of a movable base and Franka standing on it. We can control the movement of the base by adjusting its position or speed, so that the robot can have a wider range of activities and perform more tasks more conveniently.
 
 ![mobile franka](mobile_franka.png)
 *Figure 4: The mobile franka*
 <!-- 插入移动franka图片 -->
 
-## Tactile-Franka
+### Tactile-Franka
 
 The main body of tactile franka is franka, and its gripper adheres two soft pads that can receive tactile information. This design allows the robot to combine the dexterity of Franka with tactile feedback technology. It is equipped with high-precision tactile sensors that can sense and respond to contact with the environment in real time, thereby improving the accuracy and safety of operations. This robot arm is widely used in fields that require delicate tactile operations, such as precision assembly, surgical assistance, and research experiments.
 <!-- 插入Tactile franka 的图片 -->
@@ -50,7 +51,7 @@ The main body of tactile franka is franka, and its gripper adheres two soft pads
 *Figure 5: The tactile franka*
 </br>
 
-# Teleoperation
+## Teleoperation
 
 Teleoperation serves as a direct method to acquire human demonstrations for model training. Compared to controller-based models, we utilize the vision-based motion detection module, Leap Motion, to efficiently record human hand poses and then retarget hand poses to the dexterous robot hand.
 
