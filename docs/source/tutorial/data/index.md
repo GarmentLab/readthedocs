@@ -1,4 +1,8 @@
 # Asset
+## Download Link
+You can download the dataset from the following link:
+[Download Link](https://drive.google.com/drive/folders/1CqJILIK8VQ-RCuLa_aFN-WtYTbovpFga?usp=sharing)
+
 ## Garments
 The clothes come from [ClothesNet](https://arxiv.org/abs/2308.09987) and are stored in .usd (Universal Scene Description) file format, with a total of more than 4,000 pieces.</br></br>
 These clothes include 11 categories in total:</br>

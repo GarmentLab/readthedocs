@@ -1,5 +1,11 @@
 # RealWorld Benchmark
 
+## Download Link
+You can download the dataset from the following link:
+[Download Link](https://drive.google.com/drive/folders/1CqJILIK8VQ-RCuLa_aFN-WtYTbovpFga?usp=sharing)
+
+It is in the Asset/RealWorldBench folder.
+
 
 ## Objects
 
